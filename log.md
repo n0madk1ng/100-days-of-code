@@ -8,14 +8,13 @@
 
 **Link to work:** N/A?
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: September 7, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Began my progress on FreeCodeCamp.org in the Responsive Web Design - Applied Visual Design potion. I made progress but today's was definitely much slower than usual due to the topics covered.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 1. I learned about changing an element's positioning with different tools such as relative, absolute, fixed, and float. I was able to visually see the change or adjustment in the small browser window which helps reinforce my learning on what these do. I took notes because I am not confident I will remember how to use these as I progress in the course.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: N/A?
 
 
 ### Day 1: June 27, Monday
